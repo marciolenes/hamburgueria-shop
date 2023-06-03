@@ -18,5 +18,5 @@
 
 ### Visualização do projeto: <hr>
 
-- [Hamburgueria Shop](https://relogiodigitaldinamico.netlify.app)
+- [Hamburgueria Shop](https://hamburguer-shop.netlify.app/)
 
